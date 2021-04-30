@@ -128,13 +128,13 @@ background: #52A1F1;
 /* Footer */
 
 
-position: absolute;
+position: fixed;
 width: 1400px;
         /*1600*/
 height: 143px;
 left: 0px;
 top: 757px;
-position: fixed
+
 }
 #footer1{/* OK */
 
