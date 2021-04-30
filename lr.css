@@ -128,7 +128,7 @@ background: #52A1F1;
 /* Footer */
 
 
-position: fixed;
+position: absolute;
 width: 1400px;
         /*1600*/
 height: 143px;
