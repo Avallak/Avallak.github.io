@@ -1,0 +1,335 @@
+/* Frame 1 */
+
+#Frame
+{
+position: relative;
+width: 1600px;
+height: 900px;
+
+background: #FFFFFF;
+}
+/* Header */
+
+#Header
+{
+position: absolute;
+width: 1600px;
+height: 128px;
+left: 0px;
+top: 0px;
+}
+#content1
+{
+/* Победители */
+
+
+position: absolute;
+width: 109px;
+height: 30px;
+left: 805px;
+top: 49px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+#content2
+{
+/* Расписание конкурсов */
+
+
+position: absolute;
+width: 217px;
+height: 30px;
+left: 492px;
+top: 49px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+#content3
+{
+/* Главная */
+
+
+position: absolute;
+width: 76px;
+height: 30px;
+left: 320px;
+top: 49px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+#content4{
+/* 8 (919) 222 00 01 */
+
+
+position: absolute;
+width: 184px;
+height: 30px;
+left: 1065px;
+top: 49px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+#content5{
+/* Header */
+
+
+position: absolute;
+width: 1600px;
+height: 128px;
+left: 0px;
+top: 0px;
+
+background: #52A1F1;
+}
+#Footer{
+/* Footer */
+
+
+position: absolute;
+width: 1600px;
+height: 143px;
+left: 0px;
+top: 757px;
+}
+#footer1{/* OK */
+
+
+position: absolute;
+width: 30;
+height:30;
+left: 1155px;
+top: 200;
+
+background: url(OK.png);}
+
+
+#footer2{/* Мы в соц сетях */
+
+
+position: absolute;
+width: 152px;
+height: 30px;
+left: 1157px;
+top: 172px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+display: flex;
+align-items: center;
+
+color: #000000;}
+
+
+
+#footer4{/* Адрес: 420025 г.Казань ул. Большая Красная 55 */
+
+
+position: absolute;
+width: 238px;
+height: 60px;
+left: 805px;
+top: 172px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+
+color: #000000;}
+
+
+#footer5{/* Помощь Связаться с нами */
+
+
+position: absolute;
+width: 173px;
+height: 60px;
+left: 492px;
+top: 172px;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #000000;}
+
+
+#footer6{/* О нас Блог */
+
+
+position: absolute;
+width: 55px;
+height: 60px;
+left: 320px;
+top: 172px;
+    /**/
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #000000;}
+
+
+#footer7{/* Footer */
+
+
+position: absolute;
+width: 1600px;
+height: 143px;
+left: 0px;
+top: 143px;
+
+background: #52A1F1;}
+
+#Menu{ /*Menu */
+
+
+position: absolute;
+/*width: 1007px;
+height: 325px;*/
+left: 301px;
+top: 287px;}
+#menu1{
+    /* Конкурс детских рисунков “Рисовашка” */
+
+
+position: absolute;
+width: 952px;
+height: 59px;
+left: 27px;
+top: -750;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 59px;
+
+
+
+color: #000000;
+}
+#menu2{
+    /* Регистрация */
+
+
+position: absolute;
+width: 199px;
+height: 40px;
+left: 425px;
+top: -530;
+
+font-family: Monaco;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#menu3{
+    /* Button */
+
+
+position: absolute;
+width: 252px;
+height: 78px;
+left: 400px;
+top: -550px;
+
+background: #E9A750;
+border-radius: 70px;
+}
+#menu4{
+    /* Menu */
+
+
+position: absolute;
+width: 1007px;
+height: 325px;
+left: 0px;
+top: -760px;
+
+background: rgba(196, 196, 196, 0.6);
+}
+#Fon{
+    /* Fon */
+
+
+position: absolute;
+width: 1600px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: url(Fon.png);
+}
+
