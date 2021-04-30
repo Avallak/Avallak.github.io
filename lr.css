@@ -3,7 +3,8 @@
 #Frame
 {
 position: relative;
-width: 1600px;
+width: 1400px;
+    /*1600*/
 height: 900px;
 
 background: #FFFFFF;
@@ -13,7 +14,8 @@ background: #FFFFFF;
 #Header
 {
 position: absolute;
-width: 1600px;
+width: 1400px;
+        /*1600*/
 height: 128px;
 left: 0px;
 top: 0px;
@@ -127,7 +129,8 @@ background: #52A1F1;
 
 
 position: absolute;
-width: 1600px;
+width: 1400px;
+        /*1600*/
 height: 143px;
 left: 0px;
 top: 757px;
